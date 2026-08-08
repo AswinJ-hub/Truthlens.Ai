@@ -1,4 +1,5 @@
 # 🔍 TruthLens.Ai
+[Google](https://www.google.com)
 
 ### See past the synthetic. Know what's real.
 
