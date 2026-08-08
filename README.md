@@ -124,10 +124,12 @@ TruthLens.Ai evaluates multiple signals rather than relying on a single indicato
 
 🏠 Home / Landing Page
 
-![Home Page](images/homepage1.jpg)
+![Home Page](./images/homepage1.jpg)
 ![Home Page](images/homepage2.jpg)
 ![Home Page](images/homepage3.jpg)
 ![Home Page](images/homepage4.jpg)
+
+
 
 📤 Video Upload
 
