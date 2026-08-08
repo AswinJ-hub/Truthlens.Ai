@@ -121,10 +121,10 @@ TruthLens.Ai evaluates multiple signals rather than relying on a single indicato
 
 
 
+
 ## 🚀 Live Demo
-[Live Demo](https://google.com)
-## 📸 Screenshot
-![Video Upload](./images/upload.jpg)
+[Google](https://www.google.com)
+
 
 
 
