@@ -124,7 +124,7 @@ REAL VIDEO :
 ### 🔍 Detailed Analysis
 
 REAL VIDEO DETAILED ANALYSIS :
-      ![realvideo](images/real analyze.jpg)
+      ![realvideo](images/realanalyze.jpg)
 
 FAKE VIDEO DETAILED ANALYSIS :
       ![fakevideo](images/fakeanal.jpg)
@@ -143,9 +143,8 @@ FAKE VIDEO DETAILED ANALYSIS :
 
 
 ### 🌐 Live Demo
-🚀 Try TruthLens.Ai : 👇
-
-              [Truthlens.Ai](https://truthlensai-com.netlify.app/#/)
+🚀 Try TruthLens.Ai : 
+[Truthlens](https://truthlensai-com.netlify.app/#/)
 
 
 
