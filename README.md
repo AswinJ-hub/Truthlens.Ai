@@ -120,61 +120,18 @@ TruthLens.Ai evaluates multiple signals rather than relying on a single indicato
                  📄 Analysis Report
 
 
-🖥️ Screenshots
 
-🏠 Home / Landing Page
-
-![Home Page](./images/homepage1.jpg)
-![Home Page](images/homepage2.jpg)
-![Home Page](images/homepage3.jpg)
-![Home Page](images/homepage4.jpg)
-
-
-
-📤 Video Upload
-
-![Videoupload](images/upload.jpg)
-
-
-📊 Analysis Dashboard
-
-Analysis
-![analysis](images/analyze.jpg)
-
-
-“Upload a real video to analyze and verify whether it is authentic.”
-REAL VIDEO :
-   ![real](images/real.png)
-
-“Upload an AI-generated video, and it will detect whether the video is AI-generated and provide an analysis.”
-AI VIDEO :
-   ![FAKE](images/fake.png)
-
-
-🔍 Detailed Analysis
-REAL VIDEO DETAILED ANALYSIS :
-      ![realvideo](images/real analyze.png)
-
-FAKE VIDEO DETAILED ANALYSIS :
-      ![fakevideo](images/fakeanal.png)
-
-
-
-📄 Download Report in PDF format
-
-![pdf](images/pdf.jpg)
-
-
-🔄️ Share your Reports
-
-![share](images/share.jpg)
+## 🚀 Live Demo
+[Live Demo](https://google.com)
+## 📸 Screenshot
+![Video Upload](./images/upload.jpg)
 
 
 
 
-🌐 Live Demo
-🚀 Try TruthLens.Ai:
-              [LiveDemo](https://truthlensai-com.netlify.app/#/)
+
+
+
 
 
 🛠️ Tech Stack
