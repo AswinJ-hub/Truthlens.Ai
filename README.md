@@ -136,6 +136,10 @@ TruthLens.Ai evaluates multiple signals rather than relying on a single indicato
 
 📊 Analysis Dashboard
 
+Analysis
+![analysis](images/analyze.jpg)
+
+
 “Upload a real video to analyze and verify whether it is authentic.”
 REAL VIDEO :
    ![real](images/real.png)
@@ -148,6 +152,9 @@ AI VIDEO :
 🔍 Detailed Analysis
 REAL VIDEO DETAILED ANALYSIS :
       ![realvideo](images/real analyze.png)
+
+FAKE VIDEO DETAILED ANALYSIS :
+      ![fakevideo](images/fakeanal.png)
 
 
 
