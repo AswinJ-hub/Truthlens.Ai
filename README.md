@@ -78,7 +78,6 @@ The platform is designed with privacy in mind, keeping the video-analysis experi
 
 TruthLens.Ai keeps the workflow simple:
 
-```text
 📤 Upload Your Video
         ↓
 🤖 AI Runs the Analysis
@@ -88,32 +87,6 @@ TruthLens.Ai keeps the workflow simple:
 📊 Confidence & Risk Are Calculated
         ↓
 📄 Get Your Analysis Report
-
-
-🖥️ Screenshots
-## 🏠 Home / Landing Page
-![Home Page](./images/homepage1.jpg)
-![Home Page](images/homepage2.jpg)
-![Home Page](images/homepage3.jpg)
-![Home Page](images/homepage4.jpg)
-
-
-
-📤 Video Upload
-
-![Videoupload](images/upload.jpg)
-
-
-📊 Analysis Dashboard
-
-Analysis
-“Upload a real video to analyze and verify whether it is authentic.”
-REAL VIDEO :
-   ![real](images/real.png)
-
-“Upload an AI-generated video, and it will detect whether the video is AI-generated and provide an analysis.”
-AI VIDEO :
-   ![FAKE](images/fake.png)
 
 
 🧠 Analysis Pipeline
@@ -144,6 +117,30 @@ TruthLens.Ai evaluates multiple signals rather than relying on a single indicato
                  └──────────┬──────────┘
                             ↓
                  📄 Analysis Report
+
+
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](images/homepage1.jpg)
+
+### ✅ Register
+![Register](locker/register.png)
+
+### 📜 Notes
+![Notes](locker/notes.png)
+
+### 🎉 Save
+![Save](locker/save.png)
+
+### ❌ Delete
+![delete](locker/delete.png)
+
+### 🔄️ Change Password
+![change](locker/changepassword.png)
+
+
 
 
 
