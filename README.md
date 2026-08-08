@@ -10,9 +10,11 @@ From uploading a video to receiving an explainable analysis report, TruthLens.Ai
 
 ## 🚀 What is TruthLens.Ai?
 
-With the rapid growth of AI-generated and manipulated media, it is becoming increasingly difficult to distinguish authentic videos from synthetic content.
+With the rapid growth of AI-generated and manipulated media, it is becoming increasingly
+difficult to distinguish authentic videos from synthetic content.
 
-**TruthLens.Ai** analyzes uploaded videos across multiple dimensions and presents the results through an easy-to-understand report.
+**TruthLens.Ai** analyzes uploaded videos across multiple dimensions and presents
+the results through an easy-to-understand report.
 
 It provides:
 
@@ -26,7 +28,8 @@ It provides:
 - 📄 Exportable reports
 - ✅ Download the Reports in PDF format
 
-> **Note:** TruthLens.Ai is an analysis and decision-support tool. Its results should be treated as an assessment rather than absolute proof of authenticity.
+> **Note:** TruthLens.Ai is an analysis and decision-support tool. Its results should be
+> treated as an assessment rather than absolute proof of authenticity.
 
 ---
 
@@ -46,7 +49,8 @@ Examines facial consistency across video frames to identify unusual changes or i
 
 ### 👄 Lip-Sync Analysis
 
-Analyzes the relationship between facial/lip movements and the video's audio to identify potential synchronization anomalies.
+Analyzes the relationship between facial/lip movements and the video's audio to
+identify potential synchronization anomalies.
 
 ### 🎨 Visual Artifacts
 
@@ -58,7 +62,8 @@ Analyzes how visual information changes across consecutive frames to identify un
 
 ### 📊 Explainable Scores
 
-Instead of showing only a final verdict, TruthLens.Ai breaks the analysis into understandable signals so users can better understand how the assessment was formed.
+Instead of showing only a final verdict, TruthLens.Ai breaks the analysis into understandable
+signals so users can better understand how the assessment was formed.
 
 ### 📄 Exportable Reports
 
@@ -70,7 +75,8 @@ Download detailed reports in PDF format.
 
 ### 🔒 Private by Design
 
-The platform is designed with privacy in mind, keeping the video-analysis experience focused on the user's uploaded content and results.
+The platform is designed with privacy in mind, keeping the video-analysis 
+experience focused on the user's uploaded content and results.
 
 ---
 
@@ -89,7 +95,7 @@ TruthLens.Ai keeps the workflow simple:
 📄 Get Your Analysis Report
 
 
-🧠 Analysis Pipeline
+### 🧠 Analysis Pipeline
 TruthLens.Ai evaluates multiple signals rather than relying on a single indicator.
                  ┌─────────────────────┐
                  │     Video Upload    │
@@ -120,31 +126,69 @@ TruthLens.Ai evaluates multiple signals rather than relying on a single indicato
 
 
 
+
+
+
+
+
+
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
 ![Home Page](images/homepage1.jpg)
+![Home Page](images/homepage2.jpg)
+![Home Page](images/homepage3.jpg)
+![Home Page](images/homepage4.jpg)
 
-### ✅ Register
-![Register](locker/register.png)
+### 📤 Video Upload
 
-### 📜 Notes
-![Notes](locker/notes.png)
-
-### 🎉 Save
-![Save](locker/save.png)
-
-### ❌ Delete
-![delete](locker/delete.png)
-
-### 🔄️ Change Password
-![change](locker/changepassword.png)
+![Videoupload](images/upload.jpg)
 
 
+### 📊 Analysis Dashboard
+
+Analysis,
+
+***“Upload a real video to analyze and verify whether it is authentic.”***
+REAL VIDEO :
+   ![real](images/real.png)
+
+***“Upload an AI-generated video, and it will detect whether the video is AI-generated and provide an analysis.”***
+AI VIDEO :
+   ![FAKE](images/fake.png)
+   
+
+### 🔍 Detailed Analysis
+
+REAL VIDEO DETAILED ANALYSIS :
+      ![realvideo](images/real analyze.png)
+
+FAKE VIDEO DETAILED ANALYSIS :
+      ![fakevideo](images/fakeanal.png)
 
 
 
-🛠️ Tech Stack
+### 📄 Download Report in PDF format
+
+![pdf](images/pdf.jpg)
+
+
+### 🔄️ Share your Reports
+
+![share](images/share.jpg)
+
+
+
+### 🌐 Live Demo
+🚀 Try TruthLens.Ai:
+              [LiveDemo](https://truthlensai-com.netlify.app/#/)
+
+
+
+
+
+### 🛠️ Tech Stack
 HTML5
 CSS3
 TypeScript
@@ -153,7 +197,7 @@ Responsive Web Design
 Netlify
 Git & GitHub
 
-🎯 Project Goals
+### 🎯 Project Goals
 
 TruthLens.Ai was created with a simple goal:
 Make AI-generated and manipulated media analysis easier to understand and more accessible.
@@ -165,12 +209,14 @@ Privacy-conscious design
 Fast video processing
 Clear visual reporting
 
-🔐 Privacy & Responsible Use
+### 🔐 Privacy & Responsible Use
 TruthLens.Ai is designed with privacy and responsible media analysis in mind.
-Users should avoid uploading sensitive, private, or confidential videos unless they have the appropriate permission to analyze them.
-AI-based detection can have limitations and may produce false positives or false negatives. Results should therefore be considered alongside other evidence and human judgment.
+Users should avoid uploading sensitive, private, or confidential videos unless
+they have the appropriate permission to analyze them.
+AI-based detection can have limitations and may produce false positives 
+or false negatives. Results should therefore be considered alongside other evidence and human judgment.
 
-📈 Future Improvements
+### 📈 Future Improvements
 Planned improvements may include:
 
 🎥 Advanced deepfake detection models
@@ -183,14 +229,14 @@ Planned improvements may include:
 ⚡ Faster processing for longer videos
 👨‍💻 Project
 
-TruthLens.Ai
+***TruthLens.Ai
 An AI-powered approach to understanding the authenticity of digital video.
 Tagline
-See past the synthetic. Know what's real.
+See past the synthetic. Know what's real.***
 
-⭐ Support
+# ⭐ Support
 If you find this project interesting, consider giving the repository a ⭐ on GitHub.
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 TruthLens.Ai provides an AI-assisted assessment of video authenticity.
 It does not guarantee that a video is definitively real or fake. Detection results may vary depending on video quality, compression, manipulation techniques, and available analysis signals.
