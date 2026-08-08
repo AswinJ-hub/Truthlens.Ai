@@ -174,8 +174,7 @@ FAKE VIDEO DETAILED ANALYSIS :
 
 🌐 Live Demo
 🚀 Try TruthLens.Ai:
-
-              https://truthlensai-com.netlify.app/#/
+              [LiveDemo](https://truthlensai-com.netlify.app/#/)
 
 
 🛠️ Tech Stack
