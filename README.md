@@ -95,44 +95,6 @@ TruthLens.Ai keeps the workflow simple:
 📄 Get Your Analysis Report
 
 
-### 🧠 Analysis Pipeline
-TruthLens.Ai evaluates multiple signals rather than relying on a single indicator.
-                 ┌─────────────────────┐
-                 │     Video Upload    │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   Video Processing  │
-                 └──────────┬──────────┘
-                            ↓
-        ┌───────────────────┼───────────────────┐
-        ↓                   ↓                   ↓
- Face Consistency     Lip-Sync Analysis   Visual Artifacts
-        │                   │                   │
-        └───────────────────┼───────────────────┘
-                            ↓
-                  Temporal Coherence
-                            ↓
-                 ┌─────────────────────┐
-                 │ Explainable Scoring │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Confidence / Risk   │
-                 │      Assessment     │
-                 └──────────┬──────────┘
-                            ↓
-                 📄 Analysis Report
-
-
-
-
-
-
-
-
-
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -155,17 +117,17 @@ REAL VIDEO :
    ![real](images/real.png)
 
 ***“Upload an AI-generated video, and it will detect whether the video is AI-generated and provide an analysis.”***
-AI VIDEO :
+ AI VIDEO :
    ![FAKE](images/fake.png)
    
 
 ### 🔍 Detailed Analysis
 
 REAL VIDEO DETAILED ANALYSIS :
-      ![realvideo](images/real analyze.png)
+      ![realvideo](images/real analyze.jpg)
 
 FAKE VIDEO DETAILED ANALYSIS :
-      ![fakevideo](images/fakeanal.png)
+      ![fakevideo](images/fakeanal.jpg)
 
 
 
@@ -181,10 +143,9 @@ FAKE VIDEO DETAILED ANALYSIS :
 
 
 ### 🌐 Live Demo
-🚀 Try TruthLens.Ai:
-              [LiveDemo](https://truthlensai-com.netlify.app/#/)
+🚀 Try TruthLens.Ai : 👇
 
-
+              [Truthlens.Ai](https://truthlensai-com.netlify.app/#/)
 
 
 
