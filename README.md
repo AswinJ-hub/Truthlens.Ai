@@ -156,6 +156,11 @@ REAL VIDEO DETAILED ANALYSIS :
 ![pdf](images/pdf.jpg)
 
 
+🔄️ Share your Reports
+
+![share](images/share.jpg)
+
+
 
 
 🌐 Live Demo
