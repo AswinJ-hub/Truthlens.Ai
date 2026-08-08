@@ -1,5 +1,4 @@
 # 🔍 TruthLens.Ai
-[Google](https://www.google.com)
 
 ### See past the synthetic. Know what's real.
 
@@ -91,6 +90,32 @@ TruthLens.Ai keeps the workflow simple:
 📄 Get Your Analysis Report
 
 
+🖥️ Screenshots
+## 🏠 Home / Landing Page
+![Home Page](./images/homepage1.jpg)
+![Home Page](images/homepage2.jpg)
+![Home Page](images/homepage3.jpg)
+![Home Page](images/homepage4.jpg)
+
+
+
+📤 Video Upload
+
+![Videoupload](images/upload.jpg)
+
+
+📊 Analysis Dashboard
+
+Analysis
+“Upload a real video to analyze and verify whether it is authentic.”
+REAL VIDEO :
+   ![real](images/real.png)
+
+“Upload an AI-generated video, and it will detect whether the video is AI-generated and provide an analysis.”
+AI VIDEO :
+   ![FAKE](images/fake.png)
+
+
 🧠 Analysis Pipeline
 TruthLens.Ai evaluates multiple signals rather than relying on a single indicator.
                  ┌─────────────────────┐
@@ -119,19 +144,6 @@ TruthLens.Ai evaluates multiple signals rather than relying on a single indicato
                  └──────────┬──────────┘
                             ↓
                  📄 Analysis Report
-
-
-
-
-## 🚀 Live Demo
-[Google](https://www.google.com)
-
-
-
-
-
-
-
 
 
 
