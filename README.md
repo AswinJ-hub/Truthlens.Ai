@@ -147,6 +147,15 @@ FAKE VIDEO DETAILED ANALYSIS :
 [Truthlens](https://truthlensai-com.netlify.app/#/)
 
 
+## 📬 Contact
+
+Need a custom website?
+
+📧 Email: aswin.jayakumar63@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/aswinj22
+
+
 
 ### 🛠️ Tech Stack
 HTML5
